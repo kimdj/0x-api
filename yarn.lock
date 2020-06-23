@@ -408,7 +408,6 @@
 "@0x/quote-server@^2.0.2":
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/@0x/quote-server/-/quote-server-2.0.2.tgz#60d0665c1cad378c9abb89b5491bdc55b4c8412c"
-  integrity sha512-ScK8lHj2AN0RaEjSYplnxsABGy30j6bATG3GjmGMWOx5Bmj2X6UGHpD2ZJ0UH+oJqyDHyZ31vgpMbCSlBLFlzQ==
   dependencies:
     "@0x/json-schemas" "^5.0.7"
     "@0x/order-utils" "^10.2.4"
