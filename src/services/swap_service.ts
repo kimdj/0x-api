@@ -12,7 +12,7 @@ import { OrderPrunerPermittedFeeTypes } from '@0x/asset-swapper/lib/src/types';
 import { ContractAddresses, getContractAddressesForChainOrThrow } from '@0x/contract-addresses';
 import { ERC20TokenContract, ITransformERC20Contract, WETH9Contract } from '@0x/contract-wrappers';
 import { assetDataUtils, SupportedProvider } from '@0x/order-utils';
-import { BigNumber, decodeThrownErrorAsRevertError, NULL_ADDRESS, RevertError } from '@0x/utils';
+import { BigNumber, decodeThrownErrorAsRevertError, RevertError } from '@0x/utils';
 import { TxData, Web3Wrapper } from '@0x/web3-wrapper';
 import * as _ from 'lodash';
 
